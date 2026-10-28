@@ -8,5 +8,6 @@ Hello man! with this library you can use HelloWorld instead of cout, etc. to wri
 #include "helloworld.h"
 
 int main() {
-    HelloWorld("print");  // write: print
+    HelloWorld("print");  // write: Hello, World!
+    HelloWorld!("print");  // write: print
 }
